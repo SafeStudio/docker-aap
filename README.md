@@ -1,2 +1,2 @@
 # docker-aap
-Alpine + Apache + PHP Docker image
+Alpine + Apache + PHP 7 Docker image
